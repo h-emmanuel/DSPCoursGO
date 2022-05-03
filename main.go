@@ -4,7 +4,7 @@ import (
 	//"fmt"
 	//"github.com/mrlaowilly/devgo/cours"
 	"fmt"
-	"github.com/ehdreville/dspcoursGO/internal/fssync"
+	"github.com/h-emmanuel/dspcoursGO/internal/fssync"
 	"github.com/spf13/cobra"
 )
 
